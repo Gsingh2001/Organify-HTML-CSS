@@ -744,6 +744,7 @@ a.video-play-btn:hover {
 
 .single-latest-news:hover .latest-news-bg {
   opacity: 0.8;
+  
 }
 
 a.tof-btn {
@@ -1266,15 +1267,15 @@ div.owl-controls, .owl-controls div {
 
 ----------------------------------------------------------------------------- */
 .news-bg-1 {
-  background-image: url(../img/latest-news/news-bg-1.jpg);
+  background-image: url(/assets/news-1.png);
 }
 
 .news-bg-2 {
-  background-image: url(../img/latest-news/news-bg-2.jpg);
+  background-image: url(/assets/jaivik-bharat.jpg);
 }
 
 .news-bg-3 {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
+  background-image: url(/assets/new-3.jpg);
 }
 
 .news-bg-4 {
@@ -1793,7 +1794,7 @@ a.video-play-btn {
 .shop-banner {
   position: relative;
   background-color: #f5f5f5;
-  background-image: url(../img/1.jpg);
+  background-image: url(/assets/shop-banner.jpg);
   background-size: cover;
   padding: 110px 0px 115px;
 }

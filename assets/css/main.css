@@ -1794,10 +1794,11 @@ a.video-play-btn {
 .shop-banner {
   position: relative;
   background-color: #f5f5f5;
-  background-image: url(/assets/shop-banner.jpg);
+  background:  url("/assets/shop-banner.jpg") no-repeat;
   background-size: cover;
-  padding: 110px 0px 115px;
+  padding: 110px 0 115px;
 }
+
 
 .shop-banner h3 {
   position: relative;
